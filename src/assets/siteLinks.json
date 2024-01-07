@@ -9,11 +9,11 @@
     "name": "随笔",
     "link": "https://memos.uchus.top/"
   },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.uchus.top/"
-  },
+//   {
+//     "icon": "CompactDisc",
+//     "name": "音乐",
+//     "link": "https://music.uchus.top/"
+//   },
   {
     "icon": "Compass",
     "name": "起始页",
